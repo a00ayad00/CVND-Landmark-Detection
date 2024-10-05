@@ -1,4 +1,4 @@
-# CVND-Project_Landmark-Detection
+# CVND-Landmark-Detection
 I finished this project from Computer Vision Nanodegree.
 
 In this project, I implemented SLAM (Simultaneous Localization and Mapping) for a 2 dimensional world! I combined what you know about robot sensor measurements and movement to create a map of an environment from only sensor and motion data gathered by a robot, over time. 
